@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EvenOddApp/static/css/main.16dc7cb8.chunk.css",
+    "main.css": "/EvenOddApp/static/css/main.05193765.chunk.css",
     "main.js": "/EvenOddApp/static/js/main.c5430611.chunk.js",
     "main.js.map": "/EvenOddApp/static/js/main.c5430611.chunk.js.map",
     "runtime-main.js": "/EvenOddApp/static/js/runtime-main.eddbaecb.js",
@@ -8,13 +8,13 @@
     "static/js/2.af47c0d0.chunk.js": "/EvenOddApp/static/js/2.af47c0d0.chunk.js",
     "static/js/2.af47c0d0.chunk.js.map": "/EvenOddApp/static/js/2.af47c0d0.chunk.js.map",
     "index.html": "/EvenOddApp/index.html",
-    "static/css/main.16dc7cb8.chunk.css.map": "/EvenOddApp/static/css/main.16dc7cb8.chunk.css.map",
+    "static/css/main.05193765.chunk.css.map": "/EvenOddApp/static/css/main.05193765.chunk.css.map",
     "static/js/2.af47c0d0.chunk.js.LICENSE.txt": "/EvenOddApp/static/js/2.af47c0d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eddbaecb.js",
     "static/js/2.af47c0d0.chunk.js",
-    "static/css/main.16dc7cb8.chunk.css",
+    "static/css/main.05193765.chunk.css",
     "static/js/main.c5430611.chunk.js"
   ]
 }
